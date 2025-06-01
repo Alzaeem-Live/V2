@@ -102,6 +102,7 @@ body {
     font-size: 18px;
     transition: background-color 0.3s;
     margin: 10px;
+    border: 2px solid var(--light-color);
 }
 
 .btn:hover {
