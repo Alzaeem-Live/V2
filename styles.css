@@ -26,6 +26,13 @@ body {
     text-align: center;
 }
 
+/* الوسط */
+.navbar {
+    display: flex;
+    justify-content: center; /* يجعل المحتوى في المنتصف أفقيًا */
+    align-items: center;      /* يجعل المحتوى في المنتصف عموديًا */
+}
+
 .logo {
     color: var(--primary-color);
     font-size: 26px;
